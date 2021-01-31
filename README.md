@@ -36,6 +36,6 @@ It is hard to answer this question now as it depends on how successful this proj
 ## Acknowledgments and Further Readings
 **This is an AI Project for [Elements of AI](https://www.elementsofai.com/)**
 
-[Cape Town Water Crisis - Wikipedia](https://en.wikipedia.org/wiki/Cape_Town_water_crisis)
-[Explained - World's Water Crisis by Netflix / Vox Media Studios](https://www.youtube.com/watch?v=C65iqOSCZOY)
-[Water Scarcity by World Wildlife Fund](https://www.worldwildlife.org/threats/water-scarcity)
+* [Cape Town Water Crisis - Wikipedia](https://en.wikipedia.org/wiki/Cape_Town_water_crisis)
+* [Explained - World's Water Crisis by Netflix / Vox Media Studios](https://www.youtube.com/watch?v=C65iqOSCZOY)
+* [Water Scarcity by World Wildlife Fund](https://www.worldwildlife.org/threats/water-scarcity)
