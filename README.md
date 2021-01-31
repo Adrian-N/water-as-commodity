@@ -1,4 +1,6 @@
 # Fresh Water as Commodity
+Building AI course project
+## Summary
 We all need water. It is one of the most valuable resource as there is no substitute for it. This project focuses on analysing data from multiple resources to predict the next cities most likely to get fresh water shortages and be in danger of encountering what scientist call “Day Zero”. Thusly we can avert potentially water crises around the globe.
 
 ## Background
